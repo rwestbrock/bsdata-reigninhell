@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="f7c4-9955-20c1-e6ff" name="Reign in Hell" revision="1" battleScribeVersion="2.03" library="false" gameSystemId="c448-bff5-85f4-3ea3" gameSystemRevision="1" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <selectionEntries>
+    <selectionEntry id="02bf-9e84-22e0-34ed" name="Leader" hidden="false" collective="false" import="true" type="model">
+      <infoLinks>
+        <infoLink id="0281-e8a8-5160-991d" name="Warrior" hidden="false" targetId="21d4-fc9e-7e12-2c88" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="56fc-7877-f569-3e73" name="Leader" hidden="false" targetId="d070-8d5a-b075-933f" primary="true"/>
+      </categoryLinks>
+    </selectionEntry>
+  </selectionEntries>
+  <sharedSelectionEntries>
+    <selectionEntry id="4d04-11cb-4baf-6cab" name="Warrior" hidden="false" collective="false" import="true" type="model">
+      <infoLinks>
+        <infoLink id="b03a-aaee-1cf8-53d5" name="Combat Master" hidden="false" targetId="ec70-79a6-2237-1ef5" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="80f9-03c0-bf44-0f65" name="Leader" hidden="false" targetId="d070-8d5a-b075-933f" primary="true"/>
+      </categoryLinks>
+    </selectionEntry>
+    <selectionEntry id="24ae-946d-d628-427d" name="Lord of the Pit" hidden="false" collective="false" import="true" type="model">
+      <infoLinks>
+        <infoLink id="0f51-3b5a-cdc6-6a16" name="Lord of the Pit" hidden="false" targetId="76d2-85ca-341d-2063" type="profile"/>
+        <infoLink id="4533-0a93-8005-2c92" name="A Worthy Sacrifice" hidden="false" targetId="ee53-5e3d-d189-eabe" type="profile"/>
+        <infoLink id="3cf4-fda0-d468-ac72" name="Righteousness" hidden="false" targetId="3a22-1117-f4c0-31d1" type="profile"/>
+      </infoLinks>
+      <categoryLinks>
+        <categoryLink id="4de2-4a21-238e-5e92" name="Devout" hidden="false" targetId="4a01-caaf-84dd-aa7c" primary="true"/>
+      </categoryLinks>
+    </selectionEntry>
+    <selectionEntry id="206a-33b3-4fe5-4325" name="Philosophy" hidden="false" collective="false" import="true" type="upgrade">
+      <categoryLinks>
+        <categoryLink id="40fe-0dbf-7432-0ee0" name="Philosophy" hidden="false" targetId="1e5a-0c88-7445-6c63" primary="true"/>
+      </categoryLinks>
+    </selectionEntry>
+  </sharedSelectionEntries>
+</catalogue>
